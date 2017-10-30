@@ -1,0 +1,213 @@
+首页: http://blog.jobbole.com
+资讯: http://top.jobbole.com
+文章 : http://blog.jobbole.com
+全部文章: http://blog.jobbole.com
+Web前端: http://web.jobbole.com
+Python开发: http://python.jobbole.com
+Java技术: http://www.importnew.com/?utm_source=home-top-nav
+Android应用: http://android.jobbole.com
+iOS应用: http://ios.jobbole.com
+资源: http://hao.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+小组: http://group.jobbole.com
+None: http://group.jobbole.com/category/feedback/thanks/
+频道 : #
+相亲 : http://date.jobbole.com
+前端: http://web.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+Python: http://python.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+Java: http://www.importnew.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+安卓: http://android.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+iOS: http://ios.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+最新文章: http://blog.jobbole.com/all-posts/
+IT 职场: http://blog.jobbole.com/category/career/
+JavaScript: http://web.jobbole.com/category/javascript-2/
+HTML5: http://blog.jobbole.com/tag/html5/
+CSS: http://blog.jobbole.com/tag/css/
+后端: #
+C/C++: http://blog.jobbole.com/category/c-cpp/
+PHP: http://blog.jobbole.com/category/php-programmer/
+.NET: http://blog.jobbole.com/tag/net/
+Ruby: http://blog.jobbole.com/category/ruby/
+Go: http://blog.jobbole.com/tag/go/
+移动端: http://blog.jobbole.com/tag/%e7%a7%bb%e5%8a%a8%e7%ab%af/
+Android: http://blog.jobbole.com/tag/android/
+数据库: http://hao.jobbole.com/category/dotnet/dotnet-db/
+运维: #
+Linux: http://blog.jobbole.com/tag/linux/
+UNIX: http://blog.jobbole.com/tag/unix/
+其他技术: #
+Git: http://blog.jobbole.com/tag/git/
+机器学习: http://hao.jobbole.com/category/cpp-lang/cpp-machine-learning/
+算法: http://blog.jobbole.com/tag/algorithm/
+测试: http://blog.jobbole.com/tag/%e6%b5%8b%e8%af%95/
+信息安全: http://blog.jobbole.com/tag/%e5%ae%89%e5%85%a8/
+Vim: http://blog.jobbole.com/tag/vim/
+伯乐在线: http://www.jobbole.com
+所有文章: http://blog.jobbole.com/all-posts/
+IT技术: http://blog.jobbole.com/category/it-tech/
+编程挑战: http://blog.jobbole.com/tag/%e7%bc%96%e7%a8%8b%e6%8c%91%e6%88%98/
+Daniel Borowski: https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f
+CSDN / Vincent: http://geek.csdn.net/news/detail/236954
+例子: https://www.hackerrank.com/challenges/simple-array-sum
+算法教程: https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem
+面试准备的课程: https://coderbyte.com/course/google-interview-questions
+提交应用程序: https://www.hackerrank.com/jobs/common-app
+网站: http://blog.jobbole.com/tag/%e7%bd%91%e7%ab%99/
+编辑器: https://www.codechef.com/ide
+本示例: https://www.codechef.com/problems/TREEFUN
+教程: http://blog.jobbole.com/tag/%e6%95%99%e7%a8%8b/
+竞赛: http://www.spoj.com/contests/
+这里: https://www.codeeval.com/accounts/login/?next=/open_challenges/
+在线: https://www.codewars.com/kata/trailing-zeros-in-factorials-in-any-given-integer-base/train/javascript
+在线判题系统: https://en.wikipedia.org/wiki/Online_judge
+直接在线: https://leetcode.com/problems/merge-k-sorted-lists/
+Mock Interview: https://leetcode.com/mockinterview/
+文章: http://blog.jobbole.com
+在线编辑器: http://www.spoj.com/problems/TETRA/
+谷歌搜索: https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C5CHFA_enUS689US689&ion=1&espv=2&ie=UTF-8#safe=off&q=coding+challenges
+基于Quora 上的文章: https://www.quora.com/What-are-good-coding-challenges-websites
+这类文章: http://infocreeds.com/top-10-coding-challenges-websites/
+那类文章: https://www.linkedin.com/pulse/most-popular-programming-contest-sites-coding-practice-somenath-panda
+r/learnprogramming: https://www.reddit.com/r/learnprogramming/
+18 个锻炼编程技能的网站: http://blog.jobbole.com/67820/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+伯乐在线编程挑战第 0 期 - 呼叫转移系统: http://blog.jobbole.com/41204/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+伯乐在线编程挑战简介: http://blog.jobbole.com/41216/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+进入职场懈怠期 怎么办: http://group.jobbole.com/31922/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+女程序员是一种什么体验: http://group.jobbole.com/31894/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+[程序员]10月24日程序员之日。大家有什么想说的吗。: http://group.jobbole.com/31889/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+想让程序员们在这个团队有家的感觉，怎么做才好呢？: http://group.jobbole.com/31884/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+失业码农的再就业——第 1 篇: http://group.jobbole.com/31881/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+webpack+vue多入口框架搭建: http://group.jobbole.com/31851/?utm_source=blog.jobbole.com&utm_medium=article-related-group-topic
+本周热门文章: #tab1
+本月热门文章: #tab2
+热门标签: #tab3
+从银行转账失败到分布式事务：总结与...: http://blog.jobbole.com/112760/
+BFPRT 算法（TOP-K问题）: http://blog.jobbole.com/112753/
+Facebook 是如何做大规模代码部署的: http://blog.jobbole.com/112764/
+图解机器学习: http://blog.jobbole.com/112779/
+如何应对开源软件的版权牟利者？ 开...: http://blog.jobbole.com/112774/
+2017 年最受欢迎的 10 个编程挑战...: http://blog.jobbole.com/112778/
+Quora 是如何做持续部署的？工程师...: http://blog.jobbole.com/112777/
+IT 工程师的自我管理: http://blog.jobbole.com/112783/
+我如何在 17 天里得到 70 份面试: http://blog.jobbole.com/112793/
+Hello, World！我的房车编程生活，...: http://blog.jobbole.com/112606/
+机器学习实践指南: http://blog.jobbole.com/112569/
+如何让 Vim 成为我们的神器: http://blog.jobbole.com/112726/
+为什么 SQL 正在击败 NoSQ...: http://blog.jobbole.com/112614/
+写代码容易，编程并不容易: http://blog.jobbole.com/112585/
+Linux 中 grep 命令的 12 个实...: http://blog.jobbole.com/112580/
+如何在工作之余找精力做副项目？: http://blog.jobbole.com/112705/
+为什么我最喜欢的编程语言是 Go: http://blog.jobbole.com/112706/
+用 Linux、Python 和树莓派酿制...: http://blog.jobbole.com/112617/
+八款值得尝试的精美的 Linux 发行版（...: http://blog.jobbole.com/112594/
+.Net: http://blog.jobbole.com/tag/net/
+App: http://blog.jobbole.com/tag/app/
+Bug: http://blog.jobbole.com/tag/bug/
+C++: http://blog.jobbole.com/tag/cpp/
+C sharp: http://blog.jobbole.com/tag/c-sharp/
+C语言: http://blog.jobbole.com/tag/c/
+Facebook: http://blog.jobbole.com/tag/facebook/
+featuredpost: http://blog.jobbole.com/tag/featuredpost/
+Github: http://blog.jobbole.com/tag/github/
+Google: http://blog.jobbole.com/tag/google/
+Hadoop: http://blog.jobbole.com/tag/hadoop/
+IT: http://blog.jobbole.com/tag/it/
+java: http://blog.jobbole.com/tag/java/
+Javascript: http://blog.jobbole.com/tag/javascript/
+jQuery: http://blog.jobbole.com/tag/jquery/
+MySQL: http://blog.jobbole.com/tag/mysql/
+Nginx: http://blog.jobbole.com/tag/nginx/
+Node.js: http://blog.jobbole.com/tag/node-js/
+NoSQL: http://blog.jobbole.com/tag/nosql/
+php: http://blog.jobbole.com/tag/php/
+Redis: http://blog.jobbole.com/tag/redis/
+shell: http://blog.jobbole.com/tag/shell/
+soho: http://blog.jobbole.com/tag/soho/
+SQL: http://blog.jobbole.com/tag/sql/
+SQL Server: http://blog.jobbole.com/tag/sql-server/
+UI: http://blog.jobbole.com/tag/ui/
+UI设计: http://blog.jobbole.com/tag/ui%e8%ae%be%e8%ae%a1/
+Web: http://blog.jobbole.com/tag/web/
+Web开发: http://blog.jobbole.com/tag/web%e5%bc%80%e5%8f%91/
+书籍: http://blog.jobbole.com/tag/book/
+互联网: http://blog.jobbole.com/tag/%e4%ba%92%e8%81%94%e7%bd%91/
+交互设计: http://blog.jobbole.com/tag/%e4%ba%a4%e4%ba%92%e8%ae%be%e8%ae%a1/
+产品: http://blog.jobbole.com/tag/%e4%ba%a7%e5%93%81/
+产品经理: http://blog.jobbole.com/tag/%e4%ba%a7%e5%93%81%e7%bb%8f%e7%90%86/
+代码: http://blog.jobbole.com/tag/%e4%bb%a3%e7%a0%81/
+分布式: http://blog.jobbole.com/tag/%e5%88%86%e5%b8%83%e5%bc%8f/
+创业: http://blog.jobbole.com/tag/startup/
+团队: http://blog.jobbole.com/tag/%e5%9b%a2%e9%98%9f/
+大数据: http://blog.jobbole.com/tag/bigdata/
+女程序员: http://blog.jobbole.com/tag/%e5%a5%b3%e7%a8%8b%e5%ba%8f%e5%91%98/
+威客: http://blog.jobbole.com/tag/%e5%a8%81%e5%ae%a2/
+学习: http://blog.jobbole.com/tag/%e5%ad%a6%e4%b9%a0/
+安全: http://blog.jobbole.com/tag/%e5%ae%89%e5%85%a8/
+安卓开发: http://blog.jobbole.com/tag/%e5%ae%89%e5%8d%93%e5%bc%80%e5%8f%91/
+客户: http://blog.jobbole.com/tag/%e5%ae%a2%e6%88%b7/
+屌程: http://blog.jobbole.com/tag/%e5%b1%8c%e7%a8%8b/
+工具: http://blog.jobbole.com/tag/%e5%b7%a5%e5%85%b7/
+开发人员: http://blog.jobbole.com/tag/%e5%bc%80%e5%8f%91%e4%ba%ba%e5%91%98/
+开源: http://blog.jobbole.com/tag/%e5%bc%80%e6%ba%90/
+微软: http://blog.jobbole.com/tag/%e5%be%ae%e8%bd%af/
+技术面试: http://blog.jobbole.com/tag/%e6%8a%80%e6%9c%af%e9%9d%a2%e8%af%95/
+招聘: http://blog.jobbole.com/tag/%e6%8b%9b%e8%81%98/
+效率: http://blog.jobbole.com/tag/%e6%95%88%e7%8e%87/
+数学: http://blog.jobbole.com/tag/%e6%95%b0%e5%ad%a6/
+数据结构: http://blog.jobbole.com/tag/%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84/
+时间管理: http://blog.jobbole.com/tag/time-management/
+服务器: http://blog.jobbole.com/tag/%e6%9c%8d%e5%8a%a1%e5%99%a8/
+架构: http://blog.jobbole.com/tag/architecture/
+浏览器: http://blog.jobbole.com/tag/%e6%b5%8f%e8%a7%88%e5%99%a8/
+游戏: http://blog.jobbole.com/tag/%e6%b8%b8%e6%88%8f/
+用户: http://blog.jobbole.com/tag/%e7%94%a8%e6%88%b7/
+用户体验: http://blog.jobbole.com/tag/%e7%94%a8%e6%88%b7%e4%bd%93%e9%aa%8c/
+界面: http://blog.jobbole.com/tag/%e7%95%8c%e9%9d%a2/
+码农故事: http://blog.jobbole.com/tag/%e7%a0%81%e5%86%9c%e6%95%85%e4%ba%8b/
+移动应用: http://blog.jobbole.com/tag/%e7%a7%bb%e5%8a%a8%e5%ba%94%e7%94%a8/
+程序员: http://blog.jobbole.com/tag/%e7%a8%8b%e5%ba%8f%e5%91%98/
+管理: http://blog.jobbole.com/tag/management/
+编程: http://blog.jobbole.com/tag/%e7%bc%96%e7%a8%8b/
+编程语言: http://blog.jobbole.com/tag/%e7%bc%96%e7%a8%8b%e8%af%ad%e8%a8%80/
+网页设计: http://blog.jobbole.com/tag/%e7%bd%91%e9%a1%b5%e8%ae%be%e8%ae%a1/
+职场: http://blog.jobbole.com/tag/%e8%81%8c%e5%9c%ba/
+自由职业: http://blog.jobbole.com/tag/%e8%87%aa%e7%94%b1%e8%81%8c%e4%b8%9a/
+英语: http://blog.jobbole.com/tag/translation/
+苹果: http://blog.jobbole.com/tag/%e8%8b%b9%e6%9e%9c/
+设计: http://design.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+设计师: http://blog.jobbole.com/tag/%e8%ae%be%e8%ae%a1%e5%b8%88/
+设计模式: http://blog.jobbole.com/tag/%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f/
+趣文: http://blog.jobbole.com/tag/%e8%b6%a3%e6%96%87/
+软件开发: http://blog.jobbole.com/tag/%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91/
+重构: http://blog.jobbole.com/tag/%e9%87%8d%e6%9e%84/
+面试: http://blog.jobbole.com/tag/%e9%9d%a2%e8%af%95/
+项目经理: http://blog.jobbole.com/tag/%e9%a1%b9%e7%9b%ae%e7%bb%8f%e7%90%86/
+黑客: http://blog.jobbole.com/tag/%e9%bb%91%e5%ae%a2/
+业界热点资讯: http://top.jobbole.com/category/news/
+更多 »: http://top.jobbole.com/category/news/
+87版《红楼梦》尤二姐 如今身份惊人：高级软件工程师: http://top.jobbole.com/37799/?utm_source=blog.jobbole.com&utm_medium=sidebar-top-news
+2018 全球大学排名：清华大学计算机专业第一: http://top.jobbole.com/37786/?utm_source=blog.jobbole.com&utm_medium=sidebar-top-news
+不和版本帝争，16 年后 SciPy 1.0 版终发布: http://top.jobbole.com/37782/?utm_source=blog.jobbole.com&utm_medium=sidebar-top-news
+别了，Firebug！: http://top.jobbole.com/37777/?utm_source=blog.jobbole.com&utm_medium=sidebar-top-news
+微软清查上百家中国企业盗版问题: http://top.jobbole.com/37767/?utm_source=blog.jobbole.com&utm_medium=sidebar-top-news
+精选工具资源: http://hao.jobbole.com?utm_source=blog.jobbole.com&utm_medium=sidebar-resources-more
+更多资源 »: http://hao.jobbole.com?utm_source=blog.jobbole.com&utm_medium=sidebar-resources-more
+Whitewidow：SQL 漏洞自动扫描工具: http://hao.jobbole.com/whitewidow/?utm_source=blog.jobbole.com&utm_medium=sidebar-resources
+Caffe：一个深度学习框架: http://hao.jobbole.com/caffe/?utm_source=blog.jobbole.com&utm_medium=sidebar-resources
+静态代码分析工具清单：公司篇: http://hao.jobbole.com/static_code_analysis_tool_list_opensource_enterprise/?utm_source=blog.jobbole.com&utm_medium=sidebar-resources
+静态代码分析: http://hao.jobbole.com/category/cpp-lang/cpp-static-code-analysis/
+HotswapAgent：支持无限次重定义运行时类与资源: http://hao.jobbole.com/hotswapagent%ef%bc%9a%e6%94%af%e6%8c%81%e6%97%a0%e9%99%90%e6%ac%a1%e9%87%8d%e5%ae%9a%e4%b9%89%e8%bf%90%e8%a1%8c%e6%97%b6%e7%b1%bb%e4%b8%8e%e8%b5%84%e6%ba%90-2/?utm_source=blog.jobbole.com&utm_medium=sidebar-resources
+开发流程增强工具: http://hao.jobbole.com/category/java/java-development/
+静态代码分析工具清单：开源篇（各语言）: http://hao.jobbole.com/static_code_analysis_tool_list_opensource_lang/?utm_source=blog.jobbole.com&utm_medium=sidebar-resources
+网站使用指南 » : http://blog.jobbole.com/87622/
+问题反馈与求助 » : http://group.jobbole.com/category/feedback/thanks
+加入我们 » : http://group.jobbole.com/22422/
+网站积分规则 » : http://group.jobbole.com/158/
+网站声望规则 » : http://group.jobbole.com/175/
+@伯乐在线官方微博: http://weibo.com/jobbole
+订阅地址: http://blog.jobbole.com/feed/
+bd@Jobbole.com: mailto:bd@jobbole.com
+头条: http://top.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+相亲: http://date.jobbole.com
+翻译: http://fanyi.jobbole.com/?utm_source=blog.jobbole.com&utm_medium=bottomText
+加入我们: http://group.jobbole.com/22422/
+沪ICP备14046347号-1: http://www.miitbeian.gov.cn/publish/query/indexFirst.action
