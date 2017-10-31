@@ -18,7 +18,8 @@ def filter_words():
     with open(sensitive_words_file, 'r', encoding="utf8") as p:
         sensitive_words = p.readlines()
     for sensitive_word in sensitive_words:
-        if sensitive_word.strip("\n") in user_words:
+        word = sensitive_word.strip()
+        if word in user_words:
             out = "Freedom"
 
     print(out)
