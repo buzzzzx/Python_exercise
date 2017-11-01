@@ -14,7 +14,7 @@ urls = {}
 
 
 def attain_urls():
-    r = requests.get(url)
+    r = requests.get(url,)
     html_text = r.text
 
     sel = etree.HTML(html_text)
